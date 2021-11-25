@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MiAplicacion_23</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_Register">Register</string>
+    <string name="hint_regUser">Usuario</string>
+    <string name="hint_regPass">Password</string>
+    <string name="hint_regNombre">Nombre</string>
+    <string name="hitn_regApellido">Apellido</string>
+    <string name="new_cuenta">Crear Nueva Cuenta</string>
+    <string name="btn_regUser">Registar</string>
+    <string name="btn_regCancelar">Cancelar</string>
+    <string name="edit_cuenta">Editar Cuenta</string>
+    <string name="btn_editRegistrar">Actualizar</string>
+    <string name="btn_editCancelar">Cancelar</string>
+    <string name="mostrar_usuarios">Usuarios Registrados</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
